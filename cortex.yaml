@@ -1,0 +1,15 @@
+openapi: 3.0.1
+info:
+  title: monster-mind-flayer-lich
+  x-cortex-tag: monster-mind-flayer-lich
+  x-cortex-custom-metadata:
+    alignment: chaotic-evil
+    type: aberration
+    challenge_rating: 15
+    legendary: true
+    source: dnd-5e
+  x-cortex-type: monster
+  x-cortex-git:
+    github:
+      repository: xycia-cortex/monster-mind-flayer-lich
+      alias: github-token-test
